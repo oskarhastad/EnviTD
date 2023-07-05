@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f867a1f3bd18fa243812f967d45e64dd, type: 3}
+  m_Name: Tower
+  m_EditorClassIdentifier: 
+  hoverTower: {fileID: 4627501151159430581, guid: 768878eb0b36ddc45b5f5ad6ca6c3de7, type: 3}
+  realTower: {fileID: 8947752628253568577, guid: ed020b752b40d0f4c816019e4546a8f6, type: 3}
+  price: 12

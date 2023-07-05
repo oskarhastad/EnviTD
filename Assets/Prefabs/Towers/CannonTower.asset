@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f867a1f3bd18fa243812f967d45e64dd, type: 3}
+  m_Name: CannonTower
+  m_EditorClassIdentifier: 
+  hoverTower: {fileID: 3974566338742462914, guid: 22f512563c57b1c49b7db49383458fa9, type: 3}
+  realTower: {fileID: 2216298668736423958, guid: 7175b0b7b759fa442b089ab6b346fade, type: 3}
+  price: 20
